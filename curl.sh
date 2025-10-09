@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="https://github.com/Kritika-git/Docker-Projects"
+URL="https://github.com/Venn1991/Petclinic.git"
 #echo "%{http_code}"
 response=$(curl -s -w "%{http_code}"  $URL)
 
